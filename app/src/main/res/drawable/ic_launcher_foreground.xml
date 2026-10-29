@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield Halo -->
+    <path
+        android:fillColor="#1A00E5FF"
+        android:pathData="M54,23 L79,33 C79,53 68.3,71.2 54,77 C39.7,71.2 29,53 29,33 Z" />
+    <!-- Main Cyber Shield -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,26 L75,34.5 C75,51.8 65.8,67.3 54,72.4 C42.2,67.3 33,51.8 33,34.5 Z" />
+    <!-- Shield Inner Core (Deep Navy) -->
+    <path
+        android:fillColor="#0A1128"
+        android:pathData="M54,30.5 L70.5,37.3 C70.5,51 63.3,63.2 54,67.3 C44.7,63.2 37.5,51 37.5,37.3 Z" />
+    <!-- Smart Home Roof & Padlock in center -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,38 L44,46 L47,46 L47,56 L61,56 L61,46 L64,46 Z" />
+    <!-- Lock Shackle & Keyhole -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,42 C51.8,42 50,43.8 50,46 L50,48 L58,48 L58,46 C58,43.8 56.2,42 54,42 Z" />
+    <path
+        android:fillColor="#0A1128"
+        android:pathData="M54,49.5 C52.9,49.5 52,50.4 52,51.5 C52,52.3 52.5,53 53.2,53.3 L52.8,55 L55.2,55 L54.8,53.3 C55.5,53 56,52.3 56,51.5 C56,50.4 55.1,49.5 54,49.5 Z" />
+</vector>

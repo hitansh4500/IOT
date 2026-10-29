@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IoT Shield</string>
+    <string name="channel_threat_name">Intrusion Alerts</string>
+    <string name="channel_threat_description">Immediate alerts for smart home cyber threats, rogue devices, and intrusion attempts</string>
+</resources>

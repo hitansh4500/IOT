@@ -1,0 +1,6 @@
+{
+  "name": "IoT Shield",
+  "description": "Smart home cybersecurity app with vulnerability scanning, real-time intrusion detection, push alerts, and device hardening guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
